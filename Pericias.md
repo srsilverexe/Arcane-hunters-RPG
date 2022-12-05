@@ -1,13 +1,13 @@
 # Perícias
 
-## ARMAS
+## Armas
 Armas Brancas 
 Armas Curtas 
 Armas Médias 
 Armas Longas 
 Armas Pesadas
 
-## LUTA
+## Luta
 Arrombamentos 
 Artes Marciais 
 Resistência 
