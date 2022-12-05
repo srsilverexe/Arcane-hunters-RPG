@@ -1,30 +1,45 @@
 # Perícias
 
 ## Armas
-Armas Brancas 
-Armas Curtas 
-Armas Médias 
-Armas Longas 
+Armas Brancas
+
+Armas Curtas
+
+Armas Médias
+
+Armas Longas
+
 Armas Pesadas
 
 ## Luta
-Arrombamentos 
-Artes Marciais 
-Resistência 
-Briga 
-Esquivar/Escapar 
+Arrombamentos
+
+Artes Marciais
+
+Resistência
+
+Briga
+
+Esquivar/Escapar
 
 ## Cura
-Cuidados Pessoais 
+Cuidados Pessoais
+
 Primeiros Socorros
-Medicamentos 
-Medicina 
-Resistência Tortura/Drogas 
+
+Medicamentos
+
+Medicina
+
+Resistência Tortura/Drogas
+
 Sobrevivência
 
 ## Crime
-Disfarce 
+Disfarce
+
 Esconder/Evadir
+
 Falsificação 
 Furtividade 
 Rastreamento
