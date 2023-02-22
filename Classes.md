@@ -14,7 +14,10 @@ Corpo Frágil: Desvantagem em testes de força.
 Braços fracos: O jogador não pode usar nenhuma arma pesada e nem carregar objetos pesados.
 
 ### Ativa
-Suprimentos de emergência e Gasto Desenfreado: Suprimentos de emergência: O jogador pode criar flechas, o numero de flechas e decidido por 1d30 Gasto desenfreado: O jogador pode atirar 3 fechas usando apenas um dado, o numero de turnos que isso fica ativo e igual a 1d5.
+Suprimentos de emergência e Gasto Desenfreado
+
+Suprimentos de emergência: O jogador pode criar flechas, o numero de flechas é decidido por 1d30
+Gasto desenfreado: O jogador pode atirar 3 fechas usando apenas um dado, o numero de turnos que isso fica ativo é igual a 1d5.
 
 ## Bárbaro
 Os Barbaros são os mestres da guerra, sem necessariamente uma honra ou uma moral. Com suas armas gigantescas e suas armaduras sujas estão sempre prontos para uma guerra, os bárbaros são temidos por todos, por ter um grande poder físico porem eles são totalmente incapazes de obter um poder magico, bom esse e o principio da troca equivalente!
@@ -27,13 +30,13 @@ Conhecimento de vida: Bárbaros possuem vantagem em testes de dano físico.
 ### Desvantagens
 Ódio ao conhecimento: Barbaros possuem desvantagem em testes de sabedoria ou inteligência.
 
-Aura pesada: Barbaros possuem desvantagem em testes de carisma de respeito e ou pena.
+Aura pesada: Barbaros possuem desvantagem em testes de carisma de respeito e/ou pena.
 
 ### Ativa
 Euforia: O jogador começa a atacar desenfreadamente o inimigo ou personagem que estiver mais perto, os dados são, o de ativação: 1d5, duração: 1d6, dado de acerto do ataque: 1d20, dado de dano da arma: depende da arma.
 
 ## Bardo
-Os Bardos são os artistas do mundo medieval, sempre carregando um instrumento qualquer, e muitas historias para contar, afinal quem não gosta de ouvir uma boa canção sobre um herói que derrotou um dragão, ou uma lenda sobre uma espada magica que pode derrotar o próprio rei do submundo, sempre são historias bem intrigantes porem quem acreditaria em um bardo?
+Os Bardos são os artistas do mundo medieval, sempre carregando um instrumento qualquer e muitas historias para contar, afinal quem não gosta de ouvir uma boa canção sobre um herói que derrotou um dragão? Ou uma lenda sobre uma espada magica que pode derrotar o próprio rei do submundo? Sempre são historias bem intrigantes porem quem acreditaria em um bardo?
 
 ### Vantagens
 Encanto natural: Bardos possuem vantagem em testes de carisma de respeito.
